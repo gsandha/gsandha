@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **React,JavaScript,CSS,Redux,Node JS**
 
-- 📫 How to reach me **gurpreetsandha001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
