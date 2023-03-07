@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsandha" alt="gsandha" /></a> </p>
 
-- 🔭 I’m currently working on [EliteStore](https://deft-bubblegum-3db2c3.netlify.app/index.html)
+- 🔭 I’m currently working on [Vigor](https://dirty-parcel-1754.vercel.app/)
 
 - 🌱 I’m currently learning **React**
 
