@@ -12,7 +12,7 @@
 - 💬 Ask me about **React,JavaScript,CSS,Redux,Node JS**
 
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Have a look at my Resume [https://drive.google.com/file/d/1-4LVo1ePnJFOI2c4pMk40caLVZMFqIUg/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
