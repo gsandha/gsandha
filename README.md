@@ -3,9 +3,9 @@
  <p align="center"> <a href="https://app.daily.dev/gsandha"><img src="https://api.daily.dev/devcards/e8cd80340b1b45fca849f0ab69abdc46.png?r=m5h" width="400" alt="Gurpreet Sandha's Dev Card"/></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsandha" alt="gsandha" /></a> </p>
 
-- 🔭 I’m currently working on [Apex]([https://dirty-parcel-1754.vercel.app/](https://github.com/implevision))
+- 🔭 I’m currently working on [Odyssey Agent Portal]([https://unifi.uat.agentapp.odysseynext.com/en/login))
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Next js,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://gsandha.github.io/](https://gsandha.github.io/)
 
