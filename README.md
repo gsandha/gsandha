@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Gurpreet Sandha</h1>
+<h1 align="center">Hi,I'm Gurpreet Sandha,an experienced web developer</h1>
 <h3 align="center">Experienced web developer with the ability to learn and collaborate.</h3>
  <p align="center"> <a href="https://app.daily.dev/gsandha"><img src="https://api.daily.dev/devcards/e8cd80340b1b45fca849f0ab69abdc46.png?r=m5h" width="400" alt="Gurpreet Sandha's Dev Card"/></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsandha" alt="gsandha" /></a> </p>
